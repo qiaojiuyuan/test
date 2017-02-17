@@ -22,4 +22,4 @@ test create repository我就试试大标题
     两个TAB键
     多行文本</br>
 `高亮`</br>
-[百度超链接](http://www.bai.com)
+[百度超链接](http://www.baidu.com)
