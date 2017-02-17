@@ -31,3 +31,5 @@ test create repository我就试试大标题
 >>缩进2</br>
 >>>缩进3</br>
 ![](http://www.baidu.com/img/bdlogo.gif)
+```java
+public static void main(String[] args){} //显示代码段
