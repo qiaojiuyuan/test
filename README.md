@@ -23,4 +23,11 @@ test create repository我就试试大标题
     多行文本</br>
 `高亮`</br>
 [百度超链接](http://www.baidu.com "悬停显示")</br>
-* 圆点符号，记得要加上一个空格
+* 圆点符号，记得要加上一个空格</br>
+* 一级圆点符号
+    * 二级圆点符号
+        * 三级圆点符号</br>
+>缩进1</br>
+>>缩进2</br>
+>>>缩进3</br>
+![添加图片链接](http://www.baidu.com/img/bdlogo.gif)
