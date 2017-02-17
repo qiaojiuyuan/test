@@ -30,4 +30,4 @@ test create repository我就试试大标题
 >缩进1</br>
 >>缩进2</br>
 >>>缩进3</br>
-![添加图片链接](http://www.baidu.com/img/bdlogo.gif)
+![](http://www.baidu.com/img/bdlogo.gif)
